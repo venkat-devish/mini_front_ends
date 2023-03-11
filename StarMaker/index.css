@@ -1,0 +1,19 @@
+* {
+  background-color: #534747;
+}
+
+.starsContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  margin: 0 auto;
+  width: 10px;
+  margin-top: 10vh;
+}
+
+.starsContainer img {
+  height: 4rem;
+  width: 4rem;
+  cursor: pointer;
+}
