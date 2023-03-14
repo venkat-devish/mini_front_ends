@@ -1,10 +1,10 @@
 import "./App.css";
-import StarMaker from "./components/starmaker/StarMaker";
+import Boxer from "./components/Boxer/Boxer";
 
 function App() {
   return (
     <div className="App">
-      <StarMaker />
+      <Boxer />
     </div>
   );
 }
