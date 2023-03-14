@@ -1,10 +1,12 @@
 import "./App.css";
-import Boxer from "./components/Boxer/Boxer";
+import LetterByLetter from "./components/LetterSearch/LetterByLetter";
+// import Boxer from "./components/Boxer/Boxer";
 
 function App() {
   return (
     <div className="App">
-      <Boxer />
+      {/* <Boxer /> */}
+      <LetterByLetter />
     </div>
   );
 }
